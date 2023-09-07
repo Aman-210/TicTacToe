@@ -20,7 +20,7 @@ const Navbar = styled(AppBar)((theme)=>({
     background:'#6883BC',
     width:'38vw',
     marginRight:'63vh',
-    marginTop:'11.1vh',
+    // marginTop:'11.1vh',
     
 }))
 const Nav = styled(Toolbar)((theme)=>({
@@ -30,7 +30,7 @@ const Nav = styled(Toolbar)((theme)=>({
 }))
 const Container3 = styled(Box)((theme)=>({
     marginLeft:'13vh',
-    marginTop:'15vh',
+    // marginTop:'15vh',
    
 }))
 const Grid = styled(Box)((theme)=>({
